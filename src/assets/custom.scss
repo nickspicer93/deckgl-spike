@@ -1,0 +1,13 @@
+$blue:   hsl(230, 50%, 50%);
+$cyan:   hsl(230, 80%, 80%);
+$red:    hsl(0, 50%, 50%);
+$yellow: hsl(30, 50%, 50%); 
+$green:  hsl(150, 50%, 50%); 
+
+$spacer: 1rem;
+$font-size-root: null;
+$min-contrast-ratio: 2;
+
+$headings-font-family: 'Noto Serif', serif;
+
+@import "../../node_modules/bootstrap/scss/bootstrap";
